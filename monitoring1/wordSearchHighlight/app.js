@@ -25,13 +25,7 @@ function getInputText() {
   searchResultSelect.appendChild(searchResult)
 }
 
-
-
-
-
-
-
-
-
-
-// https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+// https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild
+// https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
